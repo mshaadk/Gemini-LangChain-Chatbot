@@ -54,18 +54,18 @@ streamlit run app.py
 4. Customize the background by setting the URL and opacity in the code.
    
 ## Project Structure
-`app.py`: Main Streamlit application file.
-`requirements.txt`: File listing the required Python packages.
-`.env`: File containing environment variables such as the Google API key.
-`README.md`: Documentation file for the project.
-`LICENSE.txt`: License file
+- `app.py`: Main Streamlit application file.
+- `requirements.txt`: File listing the required Python packages.
+- `.env`: File containing environment variables such as the Google API key.
+- `README.md`: Documentation file for the project.
+- `LICENSE.txt`: License file
 
 ## Dependencies
-`streamlit`: For building the web application interface.
-`langchain_google_genai`: For interfacing with Google Gemini LLM.
-`google.generativeai`: For API configuration.
-`streamlit_chat`: For displaying chat messages in Streamlit.
-`dotenv`: For loading environment variables from a file.
+- `streamlit`: For building the web application interface.
+- `langchain_google_genai`: For interfacing with Google Gemini LLM.
+- `google.generativeai`: For API configuration.
+- `streamlit_chat`: For displaying chat messages in Streamlit.
+- `dotenv`: For loading environment variables from a file.
 
 ## License
 This project is licensed under the [MIT License](LICENSE.txt).
