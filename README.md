@@ -1,5 +1,5 @@
 # Gemini LangChain Chatbot
-Welcome to the Gemini LangChain Chatbot project! This application leverages Google's Gemini LLM to create an interactive conversational agent using Streamlit. The chatbot maintains conversation context, offers creative responses, and features customizable background styling.
+This application leverages Google's Gemini LLM to create an interactive conversational agent using Streamlit. The chatbot maintains conversation context, offers creative responses, and features customizable background styling.
 
 ## Features
 - **Real-time Chat:** Engage in dynamic conversations with an AI chatbot.
